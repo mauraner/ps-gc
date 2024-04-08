@@ -6,7 +6,7 @@ author: "PSGC"
 tags: 
   - Socialisme
   - Jura bernois
-imgUrl: '../../assets/statuts.jpg'
+imgUrl: '../../assets/deputefr.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
