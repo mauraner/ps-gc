@@ -8,7 +8,7 @@ tags:
   - Ecologie
   - Féminisme
   - Service public
-imgUrl: '../../assets/assemblee.jpg'
+imgUrl: '../../assets/paysage1.jpg'
 description: Ce pourquoi nous nous engageons.
 layout: '../../layouts/BlogPost.astro'
 ---

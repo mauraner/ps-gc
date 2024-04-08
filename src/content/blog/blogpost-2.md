@@ -5,7 +5,7 @@ author: "PSGC"
 tags:
   - Jura bernois
   - Socialisme
-imgUrl: '../../assets/statuts.jpg'
+imgUrl: '../../assets/assemblee.jpg'
 description: Un nouvel élan pour le socialisme dans notre région
 layout: '../../layouts/BlogPost.astro'
 ---
