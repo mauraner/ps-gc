@@ -56,15 +56,15 @@ aux prochaines générations.
   - Veiller à ce que la transition écologique ne se fasse pas sur le dos des plus pauvres
   - Subventionner les énergies renouvelables tout en diminuant l'utilisation des ressources
 
+## Féminisme
+  
+  - Instaurer un congé parental et des crèches à tarifs plus abordables
+  - Lutter efficacement contre l'inégalité salariale et l'inégalité des chances
+  - Briser les tabous autour de la contraception et la santé sexuelle
+
 ## Santé
 
   - Considérer la santé comme un bien public: accessible, détachée des intérêts économiques
   - Utiliser la prévention comme un pilier du système de santé et la penser à long terme
   - Développer l'offre de soins de proximité
-
-## Féminisme
-  
-  - Instaurer un congé parental et des crèches à tarifs plus abordables
-  - Lutter efficacement contre l'inégalité salariale et l'inégalité des chances
-  - Briser les tabous autour de la contraception et la santé sexuelle 
 
