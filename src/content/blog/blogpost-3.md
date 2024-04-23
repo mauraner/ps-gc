@@ -12,7 +12,7 @@ layout: ../../layouts/BlogPost.astro
 
 Le PSGC est une fédération régionale du parti socialiste du canton de Berne et constitue une association au sens des articles 60 et suivants du Code civil suisse. Il dispose de statuts, intègre les sections socialistes dans le Jura bernois et leurs membres ainsi que des membres individuels.
 
-Les statuts du PSGC [sont téléchargeables ici](../../../public/docs/statuts_psgc_dec2023.pdf). [sont téléchargeables ici](../../../public/statuts_psgc_dec2023.pdf).
+Les statuts du PSGC [sont téléchargeables ici](../../../public/docs/statuts_psgc_dec2023.pdf). 
 
 
 
