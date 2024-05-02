@@ -3,12 +3,12 @@ title: Notre vision
 pubDate: 2024/05/03
 author: "PSGC"
 tags:
-  - Socialisme
-  - Région
-  - Ecologie
-  - Féminisme
-  - Service public
-imgUrl: '../../assets/paysage1.jpg'
+  - vision
+  - socialisme
+  - écologie
+  - égalité
+
+imgUrl: '../../assets/standsti.jpg'
 description: Ce pourquoi nous nous engageons.
 layout: '../../layouts/BlogPost.astro'
 ---
