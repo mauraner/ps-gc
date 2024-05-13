@@ -20,7 +20,7 @@ Le communiqué de presse de l'assemblée constitutive du PSGC <a
       class='text-blue'>est téléchargeable ici</a>.
 
 Le 4 mai 2024, également à Cortébert, s'est déroulé le Congrès du PS du canton de Berne. A cette occasion, il a intégré la nouvelle fédération régionale PSGC au niveau statutaire. Le communiqué de presse du PS du canton de Berne peut être visionné <a
-      href='https://spbe.ch/blog/2024/05/04/xxx'
+      href='https://spbe.ch/fr/blog/2024/05/07/integration-du-ps-grand-chasseral-union-historique-de-la-gauche-dans-le-jura-bernois/'
       target='_blank'
       class='text-blue'>ici</a>.
 
