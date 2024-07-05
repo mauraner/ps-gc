@@ -1,5 +1,5 @@
 ---
-title: Assemblée constitutive du 3 mai
+title: Assemblée constitutive du 3 mai 2024
 pubDate: 2024/05/03
 author: "PSGC"
 tags:

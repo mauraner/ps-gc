@@ -1,5 +1,5 @@
 ---
-title: Votations du 9 juin
+title: Votations du 9 juin 2024
 pubDate: 2024/05/20
 author: "PSGC"
 tags:
