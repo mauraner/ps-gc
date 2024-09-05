@@ -15,7 +15,7 @@ Le PSGC marque la volonté de tourner la page des divisions passées et de const
 
 
 Le communiqué de presse de l'assemblée constitutive du PSGC <a
-      href='/docs/2024_05_03_CP_PSGC.pdf'
+      href='/docs/communications/2024_05_03_CP_PSGC.pdf'
       target='_blank'
       class='text-blue'>est téléchargeable ici</a>.
 
