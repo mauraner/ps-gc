@@ -1,7 +1,7 @@
 ---
-title: Merci pour votre soutien!
+title: 4x NON pour les votations du 24 novembre
 pubDate: 2024/11/04
-author: "PSGC et PSLNV"
+author: "PSGC"
 tags:
   - votations
   - novembre 2024

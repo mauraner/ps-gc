@@ -4,7 +4,6 @@ pubDate: 2024/07/05
 author: "PSGC"
 tags:
   - Congrès
-  - CoDir
   - Votations
 
 imgUrl: '../../assets/votations22sept_0.png'
@@ -27,7 +26,7 @@ Cotiser plus pour avoir moins de rente? La réponse est claire: NON. La proposit
 ## Oui à l'initiative pour la biodiversité
 La biodiversité est malade, aussi en Suisse. Un tiers des espèces animales et végétales est menacé, plus de 80% de la surface des marais et 90% des prairies et pâturages secs ont disparu depuis 1900. L'être humain fait partie de la biodiversité. S'il ne fait pas plus pour la préserver, l'espèce humaine elle-même va à terme être une espèce menacée. Cette initiative veut promouvoir et protéger davantage la diversité en créant plus de surfaces protégées et en augmentant les moyens financiers. Il s'agit d'un renforcement général lié à la protection de la biodiversité, qui est absolument indispensable.
 
-Les prises de positions au format PDF se trouvent Le communiqué en version PDF peut être téléchargé <a
+Les prises de positions au format PDF se trouvent <a
       href='/docs/communications/2024_04_09_Recommandations_votations22sept_PSGC.pdf'
       target='_blank'
       class='text-blue'>ici</a>.
