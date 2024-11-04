@@ -1,5 +1,5 @@
 ---
-title: 4x NON pour les votations du 24 novembre
+title: Votations du 24 novembre 2024
 pubDate: 2024/11/04
 author: "PSGC"
 tags:
