@@ -1,10 +1,9 @@
 ---
 title: Votations du 9 février 2025
-pubDate: 2025/01/17
+pubDate: 2025/17/01
 author: "PSGC"
 tags:
   - votations
-  - février 2025
 imgUrl: '../../assets/blog/votations9fev.png'
 description: 2x OUI le 9 février 
 layout: '../../layouts/BlogPost.astro'
@@ -13,7 +12,7 @@ layout: '../../layouts/BlogPost.astro'
 # Les recommandations de vote du PSGC pour les votations du 9 février
 
 ## OUI à l'initiative pour la responsabilité environnementale
-LSans planète viable: pas d'humain. Sans humain: pas d'économie! 
+Sans planète viable: pas d'humain. Sans humain: pas d'économie! 
 L'initiative propose de reconnaître et prendre en compte la nature et sa capacité de renouvellement en tant que limite à l'économie nationale. C'est n'est rien d'autre que d'avoir une vision à long terme pour l'économie. Encore mieux, pour la mise en œuvre, elle implique la prise en compte de l'acceptabilité sociale des mesures. 
 
 Notre économie dépasse actuellement largement les limites. Cette initiative est une véritable opportunité, pour l'humain et l'économie, qui a intérêt à continuer d'avoir de l'eau potable, un air pur et des aliments sains. 
@@ -35,4 +34,4 @@ Les prises de positions au format PDF peuvent être téléchargées <a
       class='text-blue'>ici</a>.
 
 
-![élections2024.](../../assets/blog/votations9fev.png)
+![votations9fev](../../assets/blog/votations9fev.png)
