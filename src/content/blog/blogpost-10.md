@@ -1,6 +1,6 @@
 ---
 title: Votations du 9 février 2025
-pubDate: 2025/17/01
+pubDate: 2025/01/17
 author: "PSGC"
 tags:
   - votations
