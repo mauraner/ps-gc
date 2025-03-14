@@ -37,3 +37,8 @@ Le communiqué de presse au format PDF peut être téléchargé <a
       class='text-blue'>ici</a>.
 
 ![Maillard et Funiciello](../../assets/blog/PS_Flyer_A5_15mai.png)
+
+Et voici le <a
+      href='/docs/communications/PS_Flyer_A5_15mai.pdf'
+      target='_blank'
+      class='text-blue'>flyer</a> au format PDF.
