@@ -35,4 +35,13 @@ Le communiqué de presse au format PDF peut être téléchargé <a
       class='text-blue'>ici</a>.
 
 
-<b> Le PS Grand Chasseral et Les VERT-E-S Grand Chasseral <b> 
+<b>Le PS Grand Chasseral et Les VERT-E-S Grand Chasseral </b> 
+
+
+
+Pour information: le PS et les Vert-e-s du canton de Berne ont également publié un communiqué de presse à propos de la stratégie du siège reservé au Jura bernois pour le Conseil exécutif. Le communiqué des partis cantonaux est accessible <a
+      href='https://spbe.ch/blog/2025/05/05/ensemble-pour-un-canton-de-berne-social-et-respectueux-du-climat/'
+      target='_blank'
+      class='text-blue'>ici</a>.
+
+
