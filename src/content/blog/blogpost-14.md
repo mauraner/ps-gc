@@ -16,10 +16,10 @@ La salle de conférence de la Couronne était comble pour entendre Tamara Funici
 
 # Un public nombreux et des interventions de qualité 
 
-Le jeudi 15 mai 2025, le Parti Socialiste Grand Chasseral a organisé un événement public avec la présence de la Conseillère nationale bernoise Tamara Funiciello et du Conseiller aux Etats Pierre-Yves Maillard. La soirée était axée sur le thème des retraites et les batailles politiques qui y sont liées. La salle de la Couronne à Sonceboz était remplie, une centaine de personnes, toutes générations confondues, sont venues écouter l'oratrice et l'orateur de la soirée. Après les salutations du co-président du PSGC Jérôme Benoit, qui a assuré la modération de la soirée, Maurane Riesen, également co-présidente, a tenu <a
+Le jeudi 15 mai 2025, le Parti Socialiste Grand Chasseral a organisé un événement public avec la présence de la Conseillère nationale bernoise Tamara Funiciello et du Conseiller aux Etats Pierre-Yves Maillard. La soirée était axée sur le thème des retraites et les batailles politiques qui y sont liées. La salle de la Couronne à Sonceboz était remplie, une centaine de personnes, toutes générations confondues, sont venues écouter l'oratrice et l'orateur de la soirée. Après les salutations du co-président du PSGC Jérôme Benoit, qui a assuré la modération de la soirée, Maurane Riesen, également co-présidente, a tenu un <a
       href='/docs/communications/autres/discours_bienvenue_riesenm.pdf'
       target='_blank'
-      class='text-blue'>un discours de bienvenue</a> engagé. Place ensuite aux deux protagonistes de la soirée Tamara Funiciello et Pierre-Yves Maillard.
+      class='text-blue'>discours</a> de bienvenue engagé. Place ensuite aux deux protagonistes de la soirée Tamara Funiciello et Pierre-Yves Maillard.
 
 # Les inégalités face à la retraite
 
