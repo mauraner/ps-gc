@@ -32,5 +32,10 @@ Pour faciliter l'organisation, merci de t'inscrire avant le 5 juin sur ce  <a
 
 Au plaisir de te voir à cette occasion!
 
+Tu trouveras l'invitation et l'ordre du jour 
+<a
+      href='/docs/communications/Invitation_2025_06_13_Congrès_2025.pdf'
+      target='_blank'
+      class='text-blue'>ici</a>. 
 
 
