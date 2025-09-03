@@ -33,7 +33,7 @@ Ce sont surtout les propriétaires aisés qui profiteront de ces réformes, y co
 
 De plus, les modifications prévoient une suppression de nombreuses déductions, notamment pour les frais d'entretien, les mesures d'économie d'énergie et de protection d'environnement sans alternatives de financement. Cela pourra conduire à limiter ces mesures écologiques et les entretiens avec pour conséquence un vieillissement du parc immobilier qui impactera inévitablement aussi les artisans mandatés pour les travaux d'assainissement. 
 
-Les grands perdants de la réforme sont les locataires. Ceux-ci seront pénalisés fiscalement par rapport aux propriétaires. En résumé: les riches profiteraient en faisant payer la classe moyenne paie. Le PSGC dit non à ce changement de système de l'impôt immobilier.    
+Les grands perdants de la réforme sont les locataires. Ceux-ci seront pénalisés fiscalement par rapport aux propriétaires. En résumé: les riches profiteraient, la classe moyenne paie. Le PSGC dit non à ce changement de système de l'impôt immobilier.    
 
 
 
