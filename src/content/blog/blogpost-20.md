@@ -1,12 +1,11 @@
 ---
 title: Congrès et primes d'assurance maladie
-pubDate: 2025/09/17
-author: "PSR et PSGC"
+pubDate: 2025/10/01
+author: "PSGC"
 tags:
   - congrès
   - élections
   - santé
-  - pouvoir d'achat
 imgUrl: '../../assets/blog/Poids_primes.png'
 description: Le PSGC nomme ses candidat-e-s et se bat contre l'augmentation des primes
 layout: '../../layouts/BlogPost.astro'
