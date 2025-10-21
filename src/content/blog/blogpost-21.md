@@ -1,6 +1,6 @@
 ---
 title: Des nouveaux élu-e-s pour le PSGC
-pubDate: 2025/10/20
+pubDate: 2025/10/21
 author: "PSGC et PSBE"
 tags:
   - Conseil du Jura bernois
@@ -23,12 +23,12 @@ Le Conseil du Jura bernois (CJB) accueille deux personnalités politiques engag�
 
 
  ## Un accord logique et une légitimation démocratique
- Le changement de canton de la commune de Moutier pour 2026 obligeait les élu-e-s au sein du parlement cantonal et régional à quitter leurs fonctions avant la fin de leur mandat. Il incombait au PSA de nommer des remplaçant‑e‑s hors Moutier pour les sièges concernés. Comme indiqué dans un précédent communiqué du PSGC, un accord a été trouvé afin de garder ces sièges en main socialistes. Le PSGC est très heureux de voir sa délégation grandir au sein des deux parlements avec des politicien-ne-s expérimenté-e-s.
+ Le changement de canton de la commune de Moutier pour 2026 obligeait les élu-e-s de la ville au sein du parlement cantonal et régional à quitter leurs fonctions avant la fin de leur mandat. Il incombait au PSA de nommer des remplaçant‑e‑s hors Moutier pour les sièges concernés. Comme indiqué dans un précédent communiqué du PSGC, un accord a été trouvé afin de garder ces sièges en main socialistes. Le PSGC est très heureux de voir sa délégation grandir au sein des deux parlements avec des politicien-ne-s expérimenté-e-s.
 
  Le PSGC et le PS du canton de Berne
 
 Le communiqué de presse au format PDF peut être téléchargé <a
-      href='/docs/communications/2025_10_20_communiqué_remplacements.pdf'
+      href='/docs/communications/2025_10_21_communiqué_remplacements.pdf'
       target='_blank'
       class='text-blue'>ici</a>.
 
