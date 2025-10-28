@@ -12,7 +12,7 @@ layout: '../../layouts/BlogPost.astro'
 # Les recommandations de vote du PSGC pour les votations du 30 novembre
 
 ## OUI à l'initiative pour l'avenir
-Pour ne pas causer notre propre perte en tant qu'êtres humain, nous devons agir urgemment en faveur de la protection de notre environnement. Or, la protection du climat passe forcément par plus de justice sociale. 
+Pour ne pas causer notre propre perte en tant qu'êtres humains, nous devons agir urgemment en faveur de la protection de notre environnement. Or, la protection du climat passe forcément par plus de justice sociale. 
 
 Les principaux responsables de la dégradation du climat doivent contribuer davantage. Alors que les émissions par personne des classes de revenus inférieures et intermédiaires baissent, celles des plus riches ont augmenté de 30\% en 30 ans. Il est temps d'en faire davantage avec un impôt qui ne touche que les ultra-riches. Car cette initiative ne concerne que les héritages et dons supérieurs à 50 millions de francs suisses (soit 0.05\% des contribuables). 
 
