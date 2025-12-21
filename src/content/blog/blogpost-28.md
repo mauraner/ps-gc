@@ -32,7 +32,7 @@ Nous avons également posé les jalons pour aborder les élections de mars 2026 
       class='text-blue'> 24 candidates et candidats </a>  pour le Grand Conseil et le CJB. 
 
 ## On a besoin de ton soutien!
-Nous avons maintenant besoin de toi! Pour réussir cette campagne, nous avons besoin de la mobilisation de nos membres et sympathisants de soutien financier.
+Nous avons maintenant besoin de toi! Pour réussir cette campagne, nous avons besoin de la mobilisation de nos membres et sympathisants,et de soutien financier.
 
 Viens nous aider et participe à nos actions de stands et téléphones pour mobiliser la population à voter! Inscris-toi sur <a
       href='https://framaforms.org/elections-cantonales-2026-stands-telephones-ps-grand-chasseral-1762344090'
@@ -40,7 +40,7 @@ Viens nous aider et participe à nos actions de stands et téléphones pour mobi
       class='text-blue'> ce formulaire  </a>  
       pour faciliter l’organisation. 
 
-Vos dons et votre générosité est également importante pour financer nos actions et annonces pour la campagne à venir. Nous nous réjouissons pour tout soutien, que ce soit 10 CHF ou 500 CHF.   
+Vos dons et votre générosité sont également importants pour financer nos actions et annonces pour la campagne à venir. Nous nous réjouissons pour tout soutien, que ce soit 10 CHF ou 500 CHF.   
 IBAN : CH37 0624 0575 1493 2090 5, 
 Parti socialiste du Grand Chasseral, 2610 Saint-Imier 
 
