@@ -4,10 +4,9 @@ pubDate: 2026/03/06
 author: "PSGC"
 tags:
   - élections cantonales
-  - gouvernement
-  - Hervé Gullotti
+  - candidat-e-s
 imgUrl: '../../assets/blog/2026/collage_camp.png'
-description: Avancer ensemble - élections au Conseil exécutif de 29 mars 2029
+description: Pour plus de solidarité, votez PS le 29 mars 2029
 layout: '../../layouts/BlogPost.astro'
 ---
 
