@@ -13,7 +13,7 @@ layout: '../../layouts/BlogPost.astro'
 ![Nos élu-e-s au Grand Conseil et au Conseil du Jura bernois, Elisabeth Beck, Maurane Riesen, Sandra Roulet, Thierry Gagnebin, Jessica Froidevaux et Jean-Luc Berberat ](../../assets/blog/2026/elus2026.jpg)
 
 
-# Une premier test réussi pour le PSGC
+# Un premier test réussi pour le PSGC
 
 <b> Le Parti Socialiste Grand Chasseral (PSGC) deuxième force politique de la région! Le PSGC sort renforcé de ces élections. Avec l'élection de trois personnes au Grand Conseil et cinq au Conseil du Jura bernois (CJB), il se positionne clairement comme le parti progressiste du Jura bernois. L'excellent résultat de son candidat au gouvernement Hervé Gullotti montre qu'ensemble, la gauche réussit. 
   </b>
