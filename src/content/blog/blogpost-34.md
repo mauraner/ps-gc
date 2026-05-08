@@ -61,6 +61,9 @@ Refuser ce crédit ne serait ni social ni responsable. Le musée devrait malgré
       class='text-blue'>ici</a>. </b>
 
 
+D'ailleurs, pour lutter contre la désinformation, on s'est permis de rectifier un peu le tout-ménage ignoble de l'UDC:
+
+![Correction torchon udc 14 juin](../../assets/blog/2026/modif_torchon_udc.jpg)
 
 
 
