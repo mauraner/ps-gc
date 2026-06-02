@@ -14,7 +14,7 @@ layout: '../../layouts/BlogPost.astro'
 Le PSGC a vécu ses premières élections en mars 2026. Comme nous l'avions mentionné dans notre <a
       href='https://ps-gc.ch/blog/blogpost-33/'
       target='_blank'
-      class='text-blue'>communiqué</a>. </b>, nous avons vécu nos premières élections et il s'agit pour nous d'un test réussi. A ce propos, nous profitons de remercier chaleureusement toutes les personnes qui se sont impliquées et mobilisées pour ces élections!
+      class='text-blue'>communiqué</a> </b>, il s'agit pour nous d'un test réussi. A ce propos, nous profitons de remercier chaleureusement toutes les personnes qui se sont impliquées et mobilisées pour ces élections!
 
 A présent, nous nous réjouissons d'échanger avec toi sur la manière d'aborder cette nouvelle législature. Nous allons également aborder rétrospectivement la campagne afin de préparer mieux les prochaines. Nous allons également ré-élire nos instances. 
 
